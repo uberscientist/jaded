@@ -12,10 +12,10 @@
    },
    "dependencies":{
       "coffee-script":"*",
-      "jade":"*",
-      "uglify-js":"*",
-      "commander":"*",
-      "mkdirp":"*"
+      "jade":"0.27.2",
+      "uglify-js":"1.3.3",
+      "commander":"1.0.1",
+      "mkdirp":"0.3.3"
    },
    "engines":{
       "node":">= 0.4.0"
